@@ -1,0 +1,8 @@
+1. du -sh *
+
+2. 查看哪些IP访问了此服务器，执行命令：
+   # last
+   或者查看日志
+   #cat /var/log/secure
+
+
